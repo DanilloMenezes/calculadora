@@ -1,0 +1,4 @@
+Mini projeto de uma calculadora onde o usuário na primeira etapa vai digitar seu nome, depois disso ele vai falar o primeiro número
+da conta, em seguida vai falar o operador que deseja, na última etapa vai falar o segundo número da conta, se caso o usuário não 
+digite nada o programa vai mandar uma mensagem "Você não digitou qual seria o operador". O programa vai falar o resultado da conta, depois
+vai perguntar o usuário se ele quer continuar ou não na calculadora, se ele falar "não", o programa vai emitir uma mensagem e encerrar.
